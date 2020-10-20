@@ -3,7 +3,7 @@
 *  Weather -
   * Objectives:
     * Create scatterplot for :
-    ** Temperature (F) vs. Latitude
+    * * Temperature (F) vs. Latitude
     ** Humidity (%) vs. Latitude
     **  Cloudiness (%) vs. Latitude
     ** Wind Speed (mph) vs. Latitude
