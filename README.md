@@ -16,8 +16,11 @@
     * * Southern Hemisphere - Cloudiness (%) vs. Latitude
     * * Southern Hemisphere - Wind Speed (mph) vs. Latitude
     
-   *  Vacation jupyter notebook-
-    * * 
-    * * 
-    * *  
+    * Notable Trends
+    
+   * Vacation jupyter notebook-
+    * * Use Google APIS
+    * * Develop a heat map to display humidity levels
+    * * Use DataFrames to max temperture, wind speed etc
+    * * Locate a nearby hotel using Google API
     * * 
