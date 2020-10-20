@@ -1,6 +1,5 @@
 # python-api-challenge
-*  Objectives:
-*  Weather -
+*  Weather jupyter notebook -
   * Objectives:
     * Create scatterplot for :
     * * Temperature (F) vs. Latitude
@@ -16,3 +15,9 @@
     * * Southern Hemisphere - Humidity (%) vs. Latitude
     * * Southern Hemisphere - Cloudiness (%) vs. Latitude
     * * Southern Hemisphere - Wind Speed (mph) vs. Latitude
+    
+   *  Vacation jupyter notebook-
+    * * 
+    * * 
+    * *  
+    * * 
