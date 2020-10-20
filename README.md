@@ -1,3 +1,4 @@
 # python-api-challenge
-*  Vacation
-*  Weather
+*  Objectives:
+*  Vacation - 
+*  Weather -
