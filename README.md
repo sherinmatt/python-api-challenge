@@ -4,7 +4,7 @@
     * Create scatterplot for :
     * * Temperature (F) vs. Latitude
     * * Humidity (%) vs. Latitude
-    * *  Cloudiness (%) vs. Latitude
+    * * Cloudiness (%) vs. Latitude
     * * Wind Speed (mph) vs. Latitude
     * Analyze Linear Regression for:
     * * Northern Hemisphere - Temperature (F) vs. Latitude
@@ -18,7 +18,7 @@
     
     * Notable Trends
     
-   * Vacation jupyter notebook-
+   * Vacation jupyter notebook :
     * * Use Google APIS
     * * Develop a heat map to display humidity levels
     * * Use DataFrames to max temperture, wind speed etc
