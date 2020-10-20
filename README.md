@@ -19,6 +19,7 @@
     * Notable Trends
     
    * Vacation jupyter notebook :
+   
     * * Use Google APIS
     * * Develop a heat map to display humidity levels
     * * Use DataFrames to max temperture, wind speed etc
