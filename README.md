@@ -24,4 +24,4 @@
     * * Develop a heat map to display humidity levels
     * * Use DataFrames to max temperture, wind speed etc
     * * Locate a nearby hotel using Google API
- 
+## Enter your API's to test 
