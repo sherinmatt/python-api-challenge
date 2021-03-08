@@ -1,7 +1,8 @@
 # python-api-challenge
 ## Weather jupyter notebook -
   ## Objectives:
-    * Create scatterplot for :
+    * Utilize OpenWeathermaps API 
+    * Later, create scatterplot for the following:
     * * Temperature (F) vs. Latitude
     * * Humidity (%) vs. Latitude
     * * Cloudiness (%) vs. Latitude
