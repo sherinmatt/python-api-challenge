@@ -27,4 +27,4 @@
     * * Locate a nearby hotel using Google API
 ## Enter your API Keys when testings
 
-# Inspiration: Bootcamp
+### Inspiration: Bootcamp
