@@ -1,4 +1,5 @@
 # python-api-challenge
+
 ## Weather jupyter notebook -
   ## Objectives:
     * Utilize OpenWeathermaps API 
@@ -22,6 +23,7 @@
     
  
  ## Vacation jupyter notebook -
+  ## Objectives
     * * Use Google APIS
     * * Develop a heat map to display humidity levels
     * * Use DataFrames to max temperture, wind speed etc
