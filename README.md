@@ -1,6 +1,6 @@
 # python-api-challenge
 ## Weather jupyter notebook -
-  * Objectives:
+  ## Objectives:
     * Create scatterplot for :
     * * Temperature (F) vs. Latitude
     * * Humidity (%) vs. Latitude
@@ -17,6 +17,7 @@
     * * Southern Hemisphere - Wind Speed (mph) vs. Latitude
     
     * Notable Trends
+    * See Weather_py jupyter notebook for details
     
  
  ## Vacation jupyter notebook -
@@ -24,4 +25,6 @@
     * * Develop a heat map to display humidity levels
     * * Use DataFrames to max temperture, wind speed etc
     * * Locate a nearby hotel using Google API
-## Enter your API's to test 
+## Enter your API Keys when testings
+
+# Inspiration: Bootcamp
